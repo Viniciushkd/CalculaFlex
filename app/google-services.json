@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1099018818015",
+    "firebase_url": "https://calculaflex-c6b94.firebaseio.com",
+    "project_id": "calculaflex-c6b94",
+    "storage_bucket": "calculaflex-c6b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099018818015:android:557fb6707ad378dd",
+        "android_client_info": {
+          "package_name": "com.example.vinicius.calculaflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099018818015-7oqdo57dbelpbc9pm3ptaata8emf4v6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinicius.calculaflex",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "1099018818015-d6m7caq1ug735ef7otaulkkpkomceksh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcitsxNe4v7o0Ta3zV8tx8TYFvkHH3gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099018818015-d6m7caq1ug735ef7otaulkkpkomceksh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
